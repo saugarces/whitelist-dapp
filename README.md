@@ -1,1 +1,1 @@
-"# whitelist-dapp" 
+Whitelist Contract Address: 0x1227d349B762647Bef339ED22132c2922469C522
